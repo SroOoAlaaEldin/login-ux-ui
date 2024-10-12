@@ -1,2 +1,2 @@
 # login-ux-ui
-Simple a Login Ux/Uia
+Simple a Login Ux/Ui
